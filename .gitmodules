@@ -10,3 +10,6 @@
 [submodule "modules/mysql"]
 	path = modules/mysql
 	url = git@github.com:brucem/puppet-mysql.git
+[submodule "modules/augeas"]
+	path = modules/augeas
+	url = git@github.com:brucem/puppet-augeas.git
