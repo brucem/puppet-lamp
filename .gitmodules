@@ -1,0 +1,12 @@
+[submodule "modules/php"]
+	path = modules/php
+	url = git@github.com:brucem/puppet-php.git
+[submodule "modules/apache"]
+	path = modules/apache
+	url = git@github.com:brucem/puppet-apache.git
+[submodule "modules/common"]
+	path = modules/common
+	url = git@github.com:brucem/puppet-common.git
+[submodule "modules/mysql"]
+	path = modules/mysql
+	url = git@github.com:brucem/puppet-mysql.git
